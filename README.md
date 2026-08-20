@@ -1,5 +1,9 @@
 # SysPulse
 
+
+https://github.com/user-attachments/assets/085b20fa-1fa9-4acc-8ec7-b51672888133
+
+
 A lightweight, terminal-based system monitor (TUI) for tracking CPU and memory usage of running processes — search, sort, and kill them without leaving the terminal.
 
 Built in Rust as a learning project covering ownership across threads, non-blocking concurrency, and building an interactive TUI from scratch.
